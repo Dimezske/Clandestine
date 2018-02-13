@@ -2,7 +2,7 @@
 #include "portfolio.h"
 #include "Colors.h"
 using namespace std;
-
+// The Banking Class
 class Banking : private Portfolio{
 
 public:
